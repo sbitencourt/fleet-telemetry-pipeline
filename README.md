@@ -1,7 +1,7 @@
 # Telemetry Pipeline for Fleet Activity Analysis
 
 <p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/STATUS-IN_PROGRESS-green?style=flat-square&labelColor=555">
+  <img alt="Status: In Progress" src="https://img.shields.io/static/v1?label=Status&message=IN%20PROGRESS&color=green&style=for-the-badge">
 </p>
 
 ## English
