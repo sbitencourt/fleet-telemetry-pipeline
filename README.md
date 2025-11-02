@@ -10,4 +10,4 @@ An ETL pipeline to process raw fleet GPS data and generate trip summaries for an
 
 ## Portuguese
 
-Um pipeline ETL para processar dados brutos de GPS de frota e gerar resumos de viagem para análise, usando um conjunto de dados da Kaggle.
+Um pipeline ETL para processar dados brutos de GPS de frota e gerar resumos de viagem para análise, usando um conjunto de dados da Kaggle. 
